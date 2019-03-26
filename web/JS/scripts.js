@@ -19,7 +19,7 @@ $('.more-info').click(function(){
   $('#releaseDate').html(releaseDate);
 });
 
-  $('#myModal').on('hide.bs.modal', function () {
+$('#myModal').on('hide.bs.modal', function () {
   f = navigator.userAgent.search("Firefox");
   if (f > -1) {
     console.log('Your browser is Firefox');
