@@ -4,4 +4,4 @@ E-commerce web app built as first-year final project for Information and Compute
 
 Tech stack: MySQL, PHP, JavaScript, HTML, CSS
 
-![Screenflow](screencasts/mickslicks.gif)
+<img src="https://github.com/a-bishop/micks-licks/blob/master/screencasts/mickslicks.gif" alt="screenflow" width=500>
