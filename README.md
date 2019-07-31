@@ -4,4 +4,4 @@ E-commerce web app built as first-year final project for Information and Compute
 
 Tech stack: MySQL, PHP, JavaScript, HTML, CSS
 
-![Screenflow](https://gifs.com/gif/mickslicks-XLkR7V)
+![Screenflow](https://j.gifs.com/XLkR7V.gif)
